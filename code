@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<body>
+  <h2><center>TP 5 MATI Y NACHO</center> </h2>
+    
+   <h3><center>ONDA SENOIDAL</center> </h3>
+    
+      <p class="imagen">
+       <img src="sine-animation.gif">
+       </p>
+       <p class="texto">
+        Una onda senoidal, o sinusoide es la gr&aacute;fica de la funci&oacute;n matem&aacute;tica seno de la trigonometr&iacute;a. Consiste en una frecuencia &uacute;nica con una amplitud constante.
+
+       </p>
+       <br>
+        <br>
+         <h3><center>MEDIC&IacuteON DE DIODO EN DIRECTA</center> <h3>
+         </p>
+         
+      <p class="imagen">
+        <img src="diodo-directa.gif">
+        </p>
+        <p class="texto">
+          Un diodo est&aacute; polarizado en directo cuando el cable de prueba positivo (rojo) est&aacute; conectado al &aacute;nodo y el cable de prueba negativo (negro) está conectado al c&aacute;todo.
+        </p>
+        <br>
+        <br>
+        <h3><center>MEDIC&IacuteON DIODO EN INVERSA</center> <h3>
+        <p class="imagen">
+          <img src="diodo-inversa.gif">
+          </p>
+          <p class="texto">
+Cuando un diodo tiene polarización inversa, actúa como un aislante y no permite que fluya la corriente.
+          </p>
+          <br>
+          <br>
+          <h3><center>MEDIC&IacuteON DIODO ZENER</center> <h3>
+            <p class="imagen">
+              <img src="diodo-zener.gif">
+              </p>
+              <p class="texto">
+                Los diodos zener se encuentran diseñados para mantener un voltaje constante en sus terminales.
+              </p>
+              <br>
+              <br>
+              
+              <h3><center>MEDIC&IacuteON DIODO LED</center> <h3>
+                <p class="imagen">
+                  <img src="medicion-led.gif">
+                  </p>
+                  <p class="texto">
+                    Un diodo LED es un dispositivo que permite el paso de corriente en un solo sentido y que al ser polarizado emite un haz de luz.
+                  </p>
